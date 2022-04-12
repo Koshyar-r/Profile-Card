@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "homepage": "https://koshyar-r.github.io/profile-card",
+  "name": "profile-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
